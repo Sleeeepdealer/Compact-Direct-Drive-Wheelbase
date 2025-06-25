@@ -10,11 +10,11 @@ This open-source project is an open-source, low-budget DIY force feedback wheelb
 
 ## Images:
 <p float="left">
-  <img src="images/front.jpeg" width="45%" />
-  <img src="images/rear.jpeg" width="45%" />
+  <img src="images/front.jpeg" height="65%" />
+  <img src="images/rear.jpeg" height="65%" />
 </p>
 
 <p float="left">
-  <img src="images/base.jpeg" width="45%" />
-  <img src="images/psu_cover.jpeg" width="45%" />
+  <img src="images/base.jpeg" height="65%" />
+  <img src="images/psu_cover.jpeg" height="65%" />
 </p>
