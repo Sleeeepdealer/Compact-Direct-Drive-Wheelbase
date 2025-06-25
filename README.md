@@ -8,8 +8,8 @@ This open-source project is an open-source, low-budget DIY force feedback wheelb
 - A magnetic encoder installed inside the motor: [MT6835 (10,000 PPR)](https://github.com/mcells/mt6835-hoverboard-motor?tab=readme-ov-file) or [MT6701 (1024 PPR)](https://www.printables.com/model/934160-ffbeast-encoder-assembly)
 - A compact housing for the components - all design files included.
 
-![Render](images/images/front.jpeg)
-![Render](images/images/rear.jpeg)
+![Render](images/front.jpeg)
+![Render](images/rear.jpeg)
 
 
 <p align="center">
