@@ -2,7 +2,9 @@
 
 The STEP files use **colour-coded faces** to provide clear guidance for 3D printing and assembly.
 
-### Colour Code Key
+---
+
+## Colour Code Key
 
 | Colour | Meaning |
 | - | - |
