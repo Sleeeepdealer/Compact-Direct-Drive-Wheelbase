@@ -9,12 +9,12 @@ This open-source project is an open-source, low-budget DIY force feedback wheelb
 - A compact housing for the components - all design files included.
 
 ## Images:
-<p float="left">
-  <img src="images/front.jpeg" height="200px" />
-  <img src="images/rear.jpeg" height="200px" />
+<p float="middle">
+  <img src="images/front.jpeg" height="400px" />
+  <img src="images/rear.jpeg" height="400px" />
 </p>
 
-<p float="left">
-  <img src="images/base.jpeg" height="200px" />
-  <img src="images/psu_cover.jpeg" height="200px" />
+<p float="middle">
+  <img src="images/base.jpeg" height="400px" />
+  <img src="images/psu_cover.jpeg" height="400px" />
 </p>
